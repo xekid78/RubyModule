@@ -8,7 +8,7 @@
 ```
 module Greeting
     def say_hello()
-    	  puts "hello world"
+        puts "hello world"
     end
 
     module_function :say_hello
