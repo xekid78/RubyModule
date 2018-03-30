@@ -2,7 +2,7 @@
 モジュール
 
 ## 処理
-モジュールでhello world
+モジュールで`hello world`
 
 ## コード
 ```
